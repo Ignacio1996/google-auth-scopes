@@ -31,6 +31,9 @@ This project demonstrates how to implement Google Authentication from scratch us
 
 ### Clone the Repository
 
+Tutorial
+For a detailed step-by-step guide, read the Medium article: Google Authentication from Scratch: JavaScript + Node.js
+
 ```bash
 git clone https://github.com/yourusername/google-auth-from-scratch.git
 cd google-auth-from-scratch
